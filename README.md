@@ -1,4 +1,4 @@
-# Online Higher Education
+# Online Higher Ed Assessment with IPEDS
 
 This repository is for a study of equity implications from the expansion of exclusively online higher education degree programs. We are  preparing a preanalysis plan which will be posted here: https://osf.io/prereg/
 
