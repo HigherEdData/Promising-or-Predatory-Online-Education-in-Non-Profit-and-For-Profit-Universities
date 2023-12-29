@@ -18,7 +18,7 @@ The repository includes code that:
   - automates the downloading and building of datasets from public IPEDS source data (see .ipynb files starting with c_ in the "Data" director)
   - automates building and merging BPS data files for users with authorized access to BPS restricted access data (see .ipynb files starting with c_ in the "Data" director)
   - Executes and outputs all analyses for tables and figures in the paper.
-  -
+
 A preprint of the paper is provided in the main repo directory. You can access the published paper in *Social Forces* here: https://academic.oup.com/sf/advance-article-abstract/doi/10.1093/sf/soad074/7180366
 
 All replication code is in STATA but is provided and executed in Jupyter Notebooks (.ipnynb) using a Stata Kernel. For details see: https://kylebarron.dev/stata_kernel/
